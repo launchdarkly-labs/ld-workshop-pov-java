@@ -1,0 +1,30 @@
+slug: pov-sandbox-java
+id: ocqmaa6mabbl
+revision: 1
+title: PoV Sandbox - Java
+teaser: PoV Sandbox for Java environments
+description: |-
+  Quickly learn how to use LaunchDarkly in a
+  Java environment. Use the example code or
+  create or bring your own code.
+icon: https://launchdarkly.com/favicon-dark-mode.png
+tags:
+- java
+- pov
+owner: launchdarkly
+developers:
+- kcochran@launchdarkly.com
+instructors: []
+show_timer: true
+idle_timeout: 1200
+timelimit: 7200
+lab_config:
+  overlay: false
+  width: 25
+  position: right
+  extend_ttl: 3600
+  sidebar_enabled: true
+  hideStopButton: false
+  feedback_recap_enabled: true
+  feedback_tab_enabled: false
+  loadingMessages: true
